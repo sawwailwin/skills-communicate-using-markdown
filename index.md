@@ -12,3 +12,7 @@ I want to add Markdown Practice
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
