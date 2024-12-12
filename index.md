@@ -8,3 +8,7 @@
 I want to add Markdown Practice
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
