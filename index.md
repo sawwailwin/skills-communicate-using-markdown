@@ -6,3 +6,5 @@
 ###### This is H6
 
 I want to add Markdown Practice
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
